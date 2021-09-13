@@ -1,4 +1,4 @@
-# HKUST ELEC4230-Natural-Language-Processing course work
+# HKUST ELEC4230-Natural-Language-Processing
 
 ## PA's:
 PA1: back-propagation implementation + normalization <br />
