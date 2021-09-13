@@ -1,4 +1,4 @@
-# ELEC4230-Natural-Language-Processing
+# HKUST ELEC4230-Natural-Language-Processing course work
 
 ## PA's:
 PA1: back-propagation implementation + normalization
@@ -9,3 +9,8 @@ PA4: RNN implementation for sentiment analysis
 ## code:
 Title: ResAdapters: Residual Architecture in Language Model Adapters
 Final Project Code
+
+## report:
+Title: ResAdapters: Residual Architecture in Language Model Adapters
+Final Project Report pdf
+
